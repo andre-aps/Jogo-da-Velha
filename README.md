@@ -30,7 +30,7 @@ Agora é só jogar!
 ![jogo_velha](https://user-images.githubusercontent.com/37241913/73599824-e1f19080-4526-11ea-8f4a-b3b23abcb672.png)
 
 ## Versão
-Consulte as [tags neste repositório](https://github.com/andre-aps/Restaurante/tree/v1.0).
+Consulte as [tags neste repositório](https://github.com/andre-aps/Jogo-da-Velha/tree/v1.0).
 
 ## Autor
 <b> André Pereira da Silva </b> | [LinkedIn](https://www.linkedin.com/in/andre-aps)
