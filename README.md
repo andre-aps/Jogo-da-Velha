@@ -1,4 +1,7 @@
 # Projeto Jogo da Velha
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/jogo-da-velha)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/jogo-da-velha)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/jogo-da-velha)
 
 O projeto Jogo da Velha foi desenvolvido utilizando a linguagem de programação C# onde o objetivo do jogo é colocar três símbolos iguais numa mesma linha, coluna ou diagonal.
 
